@@ -83,21 +83,3 @@ while True:
     else:
         print("Hatali bir islem girdiniz!")
         break        
-    
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

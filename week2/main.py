@@ -151,20 +151,3 @@ fonk2 = calculatePriceAndReturn(300,100)
 print(f"151. Satir: {fonk1}")
 print(f"152. Satir: {fonk2}")
 print("****************************")
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
