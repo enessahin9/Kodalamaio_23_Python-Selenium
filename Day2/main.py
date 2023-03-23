@@ -37,7 +37,8 @@ krediler = ["Ihtiyac kredisi", "Tasit Kredisi", "Konut Kredisi"]
 print(type(krediler))
 
 print(krediler[0])
-print(len(krediler)) # length fonksiyonu dizinin uzunlugunu ogrenmeye yarar.
+print(len(krediler)) 
+# length fonksiyonu dizinin uzunlugunu ogrenmeye yarar.
 # print(krediler[3]) -> Hata verir.
 
 krediler.append("Ozel Kredi") # .append -> bir objeyi girilen listenin sonuna ekler.
