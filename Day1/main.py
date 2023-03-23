@@ -85,7 +85,7 @@ print(2 > 1 or 1 > 2 and 3 > 2)
 sayi1 = 15
 sayi2 = 15 
 
-# sayi1 sayi2'den daha buyukse ekrana sayi1 daha buyuk yazdir
+# sayi1 sayi2'den daha buyukse ekrana sayi1 daha buyuk yazdir.
 # condition 
 
 # indent
