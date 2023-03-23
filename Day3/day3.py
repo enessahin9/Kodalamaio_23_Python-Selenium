@@ -17,4 +17,4 @@ human2.talk("Selam")
 human2.walk()
 print(human2)
 
-Human("Melike").talk("Merhaba!")
+Human("Ayse").talk("Merhaba!")
